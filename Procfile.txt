@@ -1,1 +1,1 @@
-☬ꢺᴜʀʏᴀɴꜱʜ𒆜: python -m main.py
+HarshXD: python -m main.py
